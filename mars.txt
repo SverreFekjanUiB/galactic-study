@@ -1,3 +1,4 @@
 Mars is a planet.
 Mars is red.
-There is no water on mars.
+There is no water on Mars.
+Mars is full of elephants.
